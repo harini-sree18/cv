@@ -1,0 +1,35 @@
+body{
+  background-color:#EAF6F6;
+
+}
+hr{
+  background-color:#EAF6F6;
+  border-style:dotted none none;
+  border-color:grey;
+  border-width: 5px;
+  width: 5%;
+}
+img{
+  background-color:#EAF6F6;
+  height: 150px;
+
+}
+img:hover{
+  background-color:#346751; 
+}
+
+
+td{
+  text-align: center;
+}
+h1{
+  color:#346751;
+  font-family:cursive;
+}
+
+
+
+h3{
+  color:#346751;
+
+}
